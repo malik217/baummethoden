@@ -9,3 +9,4 @@ This is a test git repository
 - git commit
 - git push
 - git pull
+- git add
